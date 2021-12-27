@@ -24,3 +24,7 @@ scaled = scale.transform([[23, 3.3]])
 
 predictedCO2 = regr.predict([scaled[0]])
 print(predictedCO2)
+
+****************************************
+output 
+[105.62574092] 
